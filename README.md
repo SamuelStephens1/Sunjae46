@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Sunjae46
-- 👀 I’m interested in Jacascript, CSS, HTML  
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Javascript
-- 📫 How to reach me sestephens1408@gmail.com
+- 👋 Hi, I’m Samuel Stephens
+- 👀 I’m interested in Jacascript, CSS, HTML, Python, C++, and SQL  
+- 🌱 I’m currently Coding in Javascript, Python, C++, and SQL most frequently
+- 💞️ I’m looking to collaborate on all the aforementioned languages
+- 📫 How to reach me sestephens42@tntech.edu
 
 <!---
 Sunjae46/Sunjae46 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
